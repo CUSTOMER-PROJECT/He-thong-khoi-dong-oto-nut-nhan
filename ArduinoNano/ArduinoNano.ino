@@ -51,7 +51,7 @@ void loop ()
       }
     }
     
-    SoLanNhanNut++;
+    ++SoLanNhanNut;
     
     if (SoLanNhanNut == 4 && ThoiGianNhanNut < 3)
     {
